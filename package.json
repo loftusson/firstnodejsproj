@@ -1,0 +1,24 @@
+{
+  "name": "myfirstnodeprog",
+  "version": "1.0.0",
+  "description": "This is the first node.js project in Cloud 9",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loftusson/firstnodejsproj.git"
+  },
+  "author": "allemand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loftusson/firstnodejsproj/issues"
+  },
+  "homepage": "https://github.com/loftusson/firstnodejsproj#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
